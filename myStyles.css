@@ -1,0 +1,58 @@
+.firstLastName {
+	color: green;
+	font-family: Ariel, sans-serif;   
+	font-size: 36px;
+}
+
+p{
+	color:rgb(54, 72, 87);
+	font-family: roboto, courier;
+}
+
+.information {
+  background-color: #333;
+  overflow: hidden;
+  font-family: garamond, georgia;
+}
+
+.information a {
+  float: center;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  font-size: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 40px;
+    font-family: "Times New Roman",sans-serif;
+    font-style: italic;
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 40px;
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+}
+
+h3 {
+    font-size: 24px;
+    line-height: 40px;
+    font-family: "Times New Roman", sans-serif;
+    font-style: italic;
+}
+html{
+	background-color: rgb(132, 172, 206);
+}
+img{
+	border: 1px solid #ddd;
+  	border-radius: 4px;
+  	padding: 5px;
+  	width: 250px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+
+}
